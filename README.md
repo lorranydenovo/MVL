@@ -1,15 +1,15 @@
 # MVL
 SITE- MVL-JN 2025
 
-_1-Nome da empresa?_
+**1-Nome da empresa?**
 
 MVL-Mais Verde Livre
 
-2-História da empresa?
+**2-História da empresa?**
 
 A história da empresa, têm como objetivo ajudar na sustentabilidade do meio ambiente, trazendo recursos que possam ser utilizados de forma positiva.
 
-3-Qual o setor da atuação da empresa?
+**3-Qual o setor da atuação da empresa?**
 
 Em causas ambientais.
 
